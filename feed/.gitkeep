@@ -1,0 +1,3 @@
+Signed channel documents are published into this directory by publish-release.sh.
+It is deliberately empty until the P2 signing keys exist -- a register that
+fetches a missing manifest refuses, which is the correct behaviour.
