@@ -3,7 +3,7 @@
   "signatures": [
     {
       "keyId": "varro-2026-09-12-a",
-      "sig": "9O9cF1JN+IalEquSClb7tAdpaXrm1bWv3zIOpF58t0BsjdbbPak0ulEj1ywHOlY4SyJtuTevVpVXIuAbEiZ5Ag=="
+      "sig": "yWhln4dgLyTTH0pUjCpEM8w80IML9fI+w3A2zmSuDc48uWpy/PBmULrlMZJSYUpoNWOaG3bO6aJPEPIKPdYVCw=="
     }
   ]
 }
