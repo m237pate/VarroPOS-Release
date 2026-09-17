@@ -1,0 +1,22 @@
+{
+  "schema": "varropos.update.manifest/1",
+  "product": "varropos",
+  "channel": "beta",
+  "platform": "win32",
+  "version": "1.0.2",
+  "seq": 0,
+  "ymlSha512": "GB1HBGbqa3I5wZ1K0KFykt2u4FLTVzNBaUK2Vql6mLD1iKcprMb6KklHhTPbZe5HSS8r1IcYQn9t1B68RHo/fQ==",
+  "files": [
+    {
+      "url": "https://github.com/m237pate/VarroPOS-Release/releases/download/v1.0.2/VarroPOS-Setup-1.0.2.exe",
+      "sha512": "Es8PWE2CRBg19X5mhjJeVZwkCSKjx/lP93eSBCgPkIFnC0+X6RGd6rQ2zaNbgT22IuW9NE/suALIlF1fPpLYKA==",
+      "size": 169935032
+    }
+  ],
+  "issuedAt": "2026-09-17T03:21:10.632Z",
+  "expiresAt": "2026-12-16T03:21:10.632Z",
+  "impact": "money",
+  "revokedKeyIds": [],
+  "gitSha": "c2384467",
+  "migrationTip": null
+}
