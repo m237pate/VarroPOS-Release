@@ -1,8 +1,8 @@
-version: '1.0.8'
+version: '1.0.9'
 files:
-  - url: 'https://github.com/m237pate/VarroPOS-Release/releases/download/v1.0.8/VarroPOS-Setup-1.0.8.exe'
-    sha512: 'Zd8Tnc91+dAitbeJyFWJFlq++ORdIyM8YW/Pl/cxuwqP78mKODJI1acJJAmkg1XwgOgZUvynxcKnAEO8unSkug=='
-    size: 169952624
-path: 'https://github.com/m237pate/VarroPOS-Release/releases/download/v1.0.8/VarroPOS-Setup-1.0.8.exe'
-sha512: 'Zd8Tnc91+dAitbeJyFWJFlq++ORdIyM8YW/Pl/cxuwqP78mKODJI1acJJAmkg1XwgOgZUvynxcKnAEO8unSkug=='
-releaseDate: '2026-09-18T20:08:43.646Z'
+  - url: 'https://github.com/m237pate/VarroPOS-Release/releases/download/v1.0.9/VarroPOS-Setup-1.0.9.exe'
+    sha512: 'zhnbeMp+G9PnUX5+2ZZbtdpZSlgt8O+gF4jcHkILGjvWpOGmMG0PnMG11dnsMYgEIZ13uyu6i3jq7FzTLKaT1A=='
+    size: 169969593
+path: 'https://github.com/m237pate/VarroPOS-Release/releases/download/v1.0.9/VarroPOS-Setup-1.0.9.exe'
+sha512: 'zhnbeMp+G9PnUX5+2ZZbtdpZSlgt8O+gF4jcHkILGjvWpOGmMG0PnMG11dnsMYgEIZ13uyu6i3jq7FzTLKaT1A=='
+releaseDate: '2026-09-21T13:32:27.908Z'
