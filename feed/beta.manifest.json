@@ -3,20 +3,20 @@
   "product": "varropos",
   "channel": "beta",
   "platform": "win32",
-  "version": "1.0.8",
-  "seq": 5,
-  "ymlSha512": "OSEKhI0G8cyHa6MFRPrsZUZ5YxmtxzMtWyV+elf88MeovqdvGnCUVi9knC2wjUS87Gc0DAm4Qg5pWuFlZIXbkw==",
+  "version": "1.0.9",
+  "seq": 6,
+  "ymlSha512": "vAiAvG0QRu87TZm5WbIQgRtjrNqIqA75A1PB5nkyZBo3crWpBKLKrZKr9O6oaI8Gz1oCJMzB8aZawtfT3x85Aw==",
   "files": [
     {
-      "url": "https://github.com/m237pate/VarroPOS-Release/releases/download/v1.0.8/VarroPOS-Setup-1.0.8.exe",
-      "sha512": "Zd8Tnc91+dAitbeJyFWJFlq++ORdIyM8YW/Pl/cxuwqP78mKODJI1acJJAmkg1XwgOgZUvynxcKnAEO8unSkug==",
-      "size": 169952624
+      "url": "https://github.com/m237pate/VarroPOS-Release/releases/download/v1.0.9/VarroPOS-Setup-1.0.9.exe",
+      "sha512": "zhnbeMp+G9PnUX5+2ZZbtdpZSlgt8O+gF4jcHkILGjvWpOGmMG0PnMG11dnsMYgEIZ13uyu6i3jq7FzTLKaT1A==",
+      "size": 169969593
     }
   ],
-  "issuedAt": "2026-09-18T20:10:15.164Z",
-  "expiresAt": "2026-12-17T20:10:15.164Z",
+  "issuedAt": "2026-09-21T13:34:36.556Z",
+  "expiresAt": "2026-12-20T13:34:36.556Z",
   "impact": "money",
   "revokedKeyIds": [],
-  "gitSha": "bc4c9ac3",
+  "gitSha": "0cd6af8b",
   "migrationTip": null
 }
