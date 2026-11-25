@@ -1,0 +1,41 @@
+{
+  "schema": "varropos.release.fingerprints/1",
+  "product": "varropos",
+  "flavor": "store",
+  "version": "1.0.26",
+  "gitSha": "4188256e",
+  "generatedAt": "2026-11-19T23:07:59.511Z",
+  "algorithm": "sha256",
+  "files": [
+    {
+      "name": "VarroPOS Setup 1.0.26.exe",
+      "kind": "windows-installer",
+      "size": 158389549,
+      "sha256": "1d5885c31c4251412661bd98c0c817443375eacdc36f9fa526baea71ad12e40e"
+    },
+    {
+      "name": "VarroPOS-1.0.26-arm64.dmg",
+      "kind": "mac-installer-arm64",
+      "size": 216796911,
+      "sha256": "77e84d68eda020c45eb9b027de3117e051a10154284ed4fb0f9b680abd7e6b40"
+    },
+    {
+      "name": "VarroPOS-1.0.26.dmg",
+      "kind": "mac-installer-x64",
+      "size": 226841578,
+      "sha256": "3fe4b8d31467eaa4041c42f0c741143341a2e9eb7e1c1694032ebc7d7aeeed90"
+    },
+    {
+      "name": "VarroPOS Setup 1.0.26.exe.blockmap",
+      "kind": "windows-update-blockmap",
+      "size": 166890,
+      "sha256": "5fb0cc9fdbdf14e3b897f530b94b838ecb92a545cecf7022546c83e479bdf790"
+    },
+    {
+      "name": "latest.yml",
+      "kind": "windows-update-feed",
+      "size": 348,
+      "sha256": "0332070ef5684e95e157b6cc0f1bdf1cc9aa75f747cecfd5ed49345751a76776"
+    }
+  ]
+}

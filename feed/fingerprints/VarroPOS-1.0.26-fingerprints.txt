@@ -1,0 +1,48 @@
+VarroPOS 1.0.26 · 4188256e — installer fingerprints (SHA-256)
+Listed: 2026-11-19T23:07:59.511Z
+Signature: signed with update key varro-2026-09-12-a. Check it: node scripts/release-fingerprints.js verify <this list's .json>
+
+Is this the real installer? Run ONE line for the file, with the full path to it.
+It must print MATCH. NO MATCH: re-type the value once; still NO MATCH -> STOP, do not run it, call.
+Get the value from the owner (phone/text) or the printed checklist — NEVER from a file on the same stick.
+Card: KRM Owner Files/Owner MD Files/Build-Packaging/IS-THIS-THE-REAL-INSTALLER.md
+
+VarroPOS Setup 1.0.26.exe
+  Windows installer, 158,389,549 bytes
+  sha256 : 1d5885c31c4251412661bd98c0c817443375eacdc36f9fa526baea71ad12e40e
+  to read: 1d5885c3 1c425141 2661bd98 c0c81744 3375eacd c36f9fa5 26baea71 ad12e40e
+  Windows PowerShell: if ((Get-FileHash -Algorithm SHA256 -LiteralPath 'VarroPOS Setup 1.0.26.exe').Hash -eq '1d5885c31c4251412661bd98c0c817443375eacdc36f9fa526baea71ad12e40e') { 'MATCH' } else { 'NO MATCH' }
+  Windows cmd:        certutil -hashfile "VarroPOS Setup 1.0.26.exe" SHA256 | findstr /x /i /c:"1d5885c31c4251412661bd98c0c817443375eacdc36f9fa526baea71ad12e40e" >nul && echo MATCH || echo NO MATCH
+  Mac Terminal:       [ "$(shasum -a 256 'VarroPOS Setup 1.0.26.exe' | cut -c1-64)" = '1d5885c31c4251412661bd98c0c817443375eacdc36f9fa526baea71ad12e40e' ] && echo MATCH || echo 'NO MATCH'
+
+VarroPOS-1.0.26-arm64.dmg
+  Mac installer (Apple Silicon), 216,796,911 bytes
+  sha256 : 77e84d68eda020c45eb9b027de3117e051a10154284ed4fb0f9b680abd7e6b40
+  to read: 77e84d68 eda020c4 5eb9b027 de3117e0 51a10154 284ed4fb 0f9b680a bd7e6b40
+  Windows PowerShell: if ((Get-FileHash -Algorithm SHA256 -LiteralPath 'VarroPOS-1.0.26-arm64.dmg').Hash -eq '77e84d68eda020c45eb9b027de3117e051a10154284ed4fb0f9b680abd7e6b40') { 'MATCH' } else { 'NO MATCH' }
+  Windows cmd:        certutil -hashfile "VarroPOS-1.0.26-arm64.dmg" SHA256 | findstr /x /i /c:"77e84d68eda020c45eb9b027de3117e051a10154284ed4fb0f9b680abd7e6b40" >nul && echo MATCH || echo NO MATCH
+  Mac Terminal:       [ "$(shasum -a 256 'VarroPOS-1.0.26-arm64.dmg' | cut -c1-64)" = '77e84d68eda020c45eb9b027de3117e051a10154284ed4fb0f9b680abd7e6b40' ] && echo MATCH || echo 'NO MATCH'
+
+VarroPOS-1.0.26.dmg
+  Mac installer (Intel), 226,841,578 bytes
+  sha256 : 3fe4b8d31467eaa4041c42f0c741143341a2e9eb7e1c1694032ebc7d7aeeed90
+  to read: 3fe4b8d3 1467eaa4 041c42f0 c7411433 41a2e9eb 7e1c1694 032ebc7d 7aeeed90
+  Windows PowerShell: if ((Get-FileHash -Algorithm SHA256 -LiteralPath 'VarroPOS-1.0.26.dmg').Hash -eq '3fe4b8d31467eaa4041c42f0c741143341a2e9eb7e1c1694032ebc7d7aeeed90') { 'MATCH' } else { 'NO MATCH' }
+  Windows cmd:        certutil -hashfile "VarroPOS-1.0.26.dmg" SHA256 | findstr /x /i /c:"3fe4b8d31467eaa4041c42f0c741143341a2e9eb7e1c1694032ebc7d7aeeed90" >nul && echo MATCH || echo NO MATCH
+  Mac Terminal:       [ "$(shasum -a 256 'VarroPOS-1.0.26.dmg' | cut -c1-64)" = '3fe4b8d31467eaa4041c42f0c741143341a2e9eb7e1c1694032ebc7d7aeeed90' ] && echo MATCH || echo 'NO MATCH'
+
+VarroPOS Setup 1.0.26.exe.blockmap
+  Windows update file (blockmap), 166,890 bytes
+  sha256 : 5fb0cc9fdbdf14e3b897f530b94b838ecb92a545cecf7022546c83e479bdf790
+  to read: 5fb0cc9f dbdf14e3 b897f530 b94b838e cb92a545 cecf7022 546c83e4 79bdf790
+  Windows PowerShell: if ((Get-FileHash -Algorithm SHA256 -LiteralPath 'VarroPOS Setup 1.0.26.exe.blockmap').Hash -eq '5fb0cc9fdbdf14e3b897f530b94b838ecb92a545cecf7022546c83e479bdf790') { 'MATCH' } else { 'NO MATCH' }
+  Windows cmd:        certutil -hashfile "VarroPOS Setup 1.0.26.exe.blockmap" SHA256 | findstr /x /i /c:"5fb0cc9fdbdf14e3b897f530b94b838ecb92a545cecf7022546c83e479bdf790" >nul && echo MATCH || echo NO MATCH
+  Mac Terminal:       [ "$(shasum -a 256 'VarroPOS Setup 1.0.26.exe.blockmap' | cut -c1-64)" = '5fb0cc9fdbdf14e3b897f530b94b838ecb92a545cecf7022546c83e479bdf790' ] && echo MATCH || echo 'NO MATCH'
+
+latest.yml
+  Windows update file (latest.yml), 348 bytes
+  sha256 : 0332070ef5684e95e157b6cc0f1bdf1cc9aa75f747cecfd5ed49345751a76776
+  to read: 0332070e f5684e95 e157b6cc 0f1bdf1c c9aa75f7 47cecfd5 ed493457 51a76776
+  Windows PowerShell: if ((Get-FileHash -Algorithm SHA256 -LiteralPath 'latest.yml').Hash -eq '0332070ef5684e95e157b6cc0f1bdf1cc9aa75f747cecfd5ed49345751a76776') { 'MATCH' } else { 'NO MATCH' }
+  Windows cmd:        certutil -hashfile "latest.yml" SHA256 | findstr /x /i /c:"0332070ef5684e95e157b6cc0f1bdf1cc9aa75f747cecfd5ed49345751a76776" >nul && echo MATCH || echo NO MATCH
+  Mac Terminal:       [ "$(shasum -a 256 'latest.yml' | cut -c1-64)" = '0332070ef5684e95e157b6cc0f1bdf1cc9aa75f747cecfd5ed49345751a76776' ] && echo MATCH || echo 'NO MATCH'
